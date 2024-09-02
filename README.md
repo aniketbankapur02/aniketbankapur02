@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aniketbankapur02
 - 👀 I’m interested in design code deploy
-- 🌱 I’m currently learning Java stack
+- 🌱 I’m currently learning Java Tech stack
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me aniketbankapur@gmail.com
 - 😄 love to understand codebases and debug code:
