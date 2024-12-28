@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aniketbankapur02
-- 👀 I’m interested in design code deploy
+- 👀 I’m interested in RAGs,System design, security, Performance  
 - 🌱 I’m currently learning Java Tech stack
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me aniketbankapur@gmail.com
